@@ -1,0 +1,12 @@
+<config>
+  <MappingFile>Mapping.xlsx</MappingFile>
+  <InputData>
+    <Type>Excel</Type>
+    <Path>Random Data V1.xlsx</Path>
+    <Address></Address>
+    <Service></Service>
+    <UserName></UserName>
+    <Password></Password>
+  </InputData>
+  <RuleDesc>Rule Definition V2.xlsx</RuleDesc>
+</config>
